@@ -82,5 +82,7 @@ Content/Megascans
 Content/StarterContent
 Content/__ExternalActors__
 Content/__ExternalObjects__
-Content/*
-!Content/Blueprints/*
+Content/Collections/*
+Content/Developers/*
+Content/Maps/*
+Content/MSPresets/*
