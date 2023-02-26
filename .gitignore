@@ -87,3 +87,6 @@ Content/Developers/*
 Content/Maps/*
 Content/MSPresets/*
 Content/Blueprints
+*.ini
+*.umap
+*.uasset
